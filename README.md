@@ -1,2 +1,0 @@
-# JMeterDemo
-Jmeter pipeline demo
